@@ -1,12 +1,62 @@
-## Hi there 👋
+# 📊PAY-TERN
 
-<!--
+---
 
-**Here are some ideas to get you started:**
+## 1. 프로젝트 개요
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**PAY-TERN**은 사용자의 카드 소비 내역과 지역 소비 정보를 기반으로 소비 패턴을 진단하고, AI를 활용해 맞춤형 카드 혜택 및 지역사랑상품권 정보를 제공하는 소비 최적화 시스템입니다.
+
+---
+
+## 2. 프로젝트 소개
+
+- 카드 소비의 일상화에도 불구하고 대부분의 소비자는 카드 혜택 조건과 지역 가맹점 정보를 충분히 인지하지 못하고 있습니다.
+- PAY-TERN은 개인의 마이데이터와 카드 소비 패턴을 분석해 **실질적인 절약**과 **지역경제 활성화**라는 두 가지 목적을 동시에 달성하는 통합 솔루션입니다.
+- 소비자의 혜택 체감률을 높이고, 정책의 효율성을 제고하기 위한 **실행 가능한 데이터 기반 서비스**를 목표로 합니다.
+
+---
+
+## 3. 프로젝트 목표
+
+- 카드 소비 패턴 분석을 통한 **소비 효율성 향상**
+- **최적 카드 추천 및 실적 달성 분석**
+- **지역사랑상품권 사용 가능 여부 안내 및 추천**
+- 전국 가맹점 정보의 **데이터 표준화 및 통합**
+
+---
+
+## 4. 주요 기능
+
+-  카드 소비 내역 자동 카테고리화 
+-  월별/분기별 소비 리포트 제공
+-  카드별 실적 달성 여부 분석 및 최적 소비 조합 추천
+-  지역사랑상품권 사용 가능 여부 알림
+-  이동 지역 기반 가맹점 정보 추천 및 챗봇 연동
+
+---
+
+## 5. 팀원 소개
+#👵🏻최고령자 팀
+
+| 이름     | 역할         | 전공/소속         | 담당 업무                     |
+|----------|--------------|-------------------|-------------------------------|
+| 이현지   | 팀장         | 충북대 정보통계학과 | 프로젝트 매니징, S/W개발        |
+| 구경선   | 팀원         | 충북대 지구환경과학과 | S/W개발 총괄                    |
+| 심민아   | 팀원         | 충북대 소프트웨어학부 | 프론트엔드 총괄             |
+
+---
+
+## 6. 기술 스택
+
+- **언어**: Python, R
+- **라이브러리**: pandas, numpy, scikit-learn, Llama3, LightGBM 등
+- **분석 툴**: Jupyter Notebook, VS Code
+- **데이터 수집**: 웹 크롤링 (카드사 웹사이트, 지역상품권 가맹점)
+- **API**: CODEF API (마이데이터 수집)
+- **버전관리**: Git, GitHub
+
+---
+
+
+> 본 프로젝트는 금융소비자의 실질적 혜택 증진과 지역사회 소비 촉진을 위한 실용적 문제 해결에 중점을 둡니다.  
+> 데이터 기반 기술로 사회적 가치를 실현하는 **진짜 작동하는 서비스**를 목표로 합니다.
